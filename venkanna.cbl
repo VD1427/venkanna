@@ -1,3 +1,3 @@
-enviroment division
+environment division
 identification division
 
